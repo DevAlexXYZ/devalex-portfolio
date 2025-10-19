@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
     return (
-        <div className="min-h-screen bg-[#0A0F1C] flex items-center relative overflow-hidden">
+        <div className="min-h-screen bg-[#0A0F1C] flex items-center relative overflow-hidden pt-16 sm:pt-20">
             {/* Background grid effect */}
             <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
 
