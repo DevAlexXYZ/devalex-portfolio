@@ -8,7 +8,7 @@ const projects = [
         image: "/projects/img_project-p1ne.png",
         technologies: ["React", "JavaScript", "Styled Components"],
         color: "bg-blue-800",
-        link: "https://www.p1ne.xyz/",
+        link: "https://pone-kappa.vercel.app/",
     },
     {
         name: "Home BudgIT",
@@ -17,7 +17,7 @@ const projects = [
         image: "/projects/home-budgit.png",
         technologies: ["Next.js", "JavaScript", "Tailwind CSS"],
         color: "bg-green-800",
-        link: "https://homebudgit.com/",
+        link: "https://home-budg-it.vercel.app/",
     },
     {
         name: "EventFrend",
