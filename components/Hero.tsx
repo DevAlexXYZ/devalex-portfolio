@@ -52,7 +52,7 @@ export default function Hero() {
                         {/* Main image container */}
                         <div className="relative z-10 w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 rounded-2xl overflow-hidden">
                             <Image
-                                src="/devalex.jpeg"
+                                src="/AlexanderWERKENBIJ.png"
                                 alt="Develax"
                                 width={500}
                                 height={500}
