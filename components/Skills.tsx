@@ -32,13 +32,13 @@ const skills = [
     {
         name: "API Integration",
         icon: CloudIcon,
-        description: "REST APIs, GraphQL, WebSockets, API Design,",
+        description: "REST APIs, GraphQL, WebSockets, API Design, etc.",
         color: "bg-purple-500",
     },
     {
         name: "AI Implementation",
         icon: SparklesIcon,
-        description: "OpenAI, AI Integrations, Antygravity AI, Claude AI, Gemini AI, Google AI, DeepSeek AI, etc.",
+        description: "OpenAI, AI Integrations, Antigravity AI, Claude AI, Gemini AI, Google AI, DeepSeek AI, etc.",
         color: "bg-indigo-500",
     },
     {

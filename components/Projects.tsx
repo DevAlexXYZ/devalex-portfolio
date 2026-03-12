@@ -4,7 +4,7 @@ const projects = [
     {
         name: "P1ne AI NFT Platform",
         description:
-            "P1NE AI NFTs creates unique, mathematically-generated digital art pieces on the blockchain. Each artwork is born from pure code, producing one-of-a-kind algorithmic masterpieces that blend technology with artistic expression. With strictly limited collections of 50 pieces each, P1NE offers collectors exclusive access to verifiably unique digital art, backed by smart contracts on the Ethereum network. Join our community of digital art enthusiasts and explore the intersection of artificial intelligence, mathematics, and creative expression.",
+            "An AI-powered NFT platform that generates unique, mathematically-crafted digital art on the Ethereum blockchain. Limited collections of 50 pieces each, with verifiable ownership backed by smart contracts.",
         image: "/projects/img_project-p1ne.png",
         technologies: ["React", "JavaScript", "Styled Components"],
         color: "bg-blue-800",
@@ -36,6 +36,24 @@ const projects = [
         technologies: ["React", "TypeScript", "Tailwind CSS"],
         color: "bg-yellow-800",
         link: "https://bankingapp-eight.vercel.app/sign-in",
+    },
+    {
+        name: "CryptoSentiment",
+        description:
+            "An AI-driven cryptocurrency market sentiment analysis platform that aggregates real-time data from multiple exchanges including Binance, Coinbase, and KuCoin. Features live market monitoring, MetaMask wallet integration for onchain execution on Ethereum, and 24/7 AI-powered insights to help traders make informed decisions.",
+        image: "/projects/tradeoption.png",
+        technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
+        color: "bg-indigo-800",
+        link: "https://tradeoption-sand.vercel.app/",
+    },
+    {
+        name: "BriefMe",
+        description:
+            "An AI-powered meeting preparation tool that automatically reads your calendar, emails, and shared documents to generate a concise one-page brief in 30 seconds. Provides AI-generated talking points, attendee profiles, relevant email threads, and action item tracking — all integrated with Google Calendar, Gmail, and Google Drive.",
+        image: "/projects/briefme.png",
+        technologies: ["Next.js", "TypeScript", "GPT-4o"],
+        color: "bg-purple-800",
+        link: "https://www.briefme.wtf/",
     },
 ];
 
