@@ -26,7 +26,7 @@ const projects = [
         image: "/projects/eventfrend.png",
         technologies: ["React", "TypeScript", "Tailwind CSS"],
         color: "bg-yellow-800",
-        link: "https://www.eventfrend.com/",
+        link: "https://eventapp-devalex-projects.vercel.app/",
     },
     {
         name: "Horizon",
